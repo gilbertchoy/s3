@@ -22,6 +22,7 @@
         <!--<activity android:name="com.applovin.adview.AppLovinInterstitialActivity" android:configChanges="orientation|screenSize"/> -->
         <!--<activity android:name="com.applovin.adview.AppLovinConfirmationActivity" android:configChanges="orientation|screenSize"/> -->
         <!--applovin end-->
+
         <activity android:name=".MainActivity" android:screenOrientation="portrait" android:theme="@style/AppTheme">
         </activity>
         <activity android:name=".SplashScreenActivity" android:theme="@style/SplashTheme">
